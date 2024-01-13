@@ -5,6 +5,7 @@
     --fs_39: 39.06px;
     --fs_31: 31.25px;
     --fs_25:  25px;
+    --fs_26: 25px;
     --fs_20: 20px;
     --fs_16: 16px;
     --fs_12: 12.8px;
@@ -25,6 +26,9 @@
    --grey: #EFEFEF;
    
 } 
+.fs_26{
+    font-size: var(--fs_26);
+}
 
 .poppins{
     font-family: 'Poppins',sans-serif;
@@ -97,7 +101,7 @@
         --fs_39: 30.06px;
         --fs_31: 31.25px;
         --fs_25:  15px;
-        --fs_20: 10px;
+        --fs_20: 20px;
         --fs_16: 16px;
         --fs_12: 12.8px;
         --fs_10: 10.24px;
